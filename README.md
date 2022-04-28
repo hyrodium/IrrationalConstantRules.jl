@@ -22,3 +22,9 @@ false
 
 Please read the long discussion about this on https://github.com/JuliaMath/IrrationalConstants.jl/pull/14.
 I still feel `sin(::Irrational) isa Irrational` can be reasonable.
+
+## Installation
+
+```
+(@v1.7) pkg> add https://github.com/hyrodium/IrrationalConstantRules.jl
+```
