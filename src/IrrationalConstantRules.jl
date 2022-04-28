@@ -1,5 +1,7 @@
 module IrrationalConstantRules
 
-# Write your package code here.
+using IrrationalConstants
+
+include("rules.jl")
 
 end
