@@ -1,7 +1,10 @@
 name = "IrrationalConstantRules"
 uuid = "3885bc1a-5bac-4cac-af0b-39e244811bcf"
 authors = ["hyrodium <hyrodium@gmail.com> and contributors"]
-version = "0.1.0"
+version = "0.0.1"
+
+[deps]
+IrrationalConstants = "92d709cd-6900-40b7-9082-c6be49f344b6"
 
 [compat]
 julia = "1"
