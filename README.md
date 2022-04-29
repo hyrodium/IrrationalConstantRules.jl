@@ -1,6 +1,6 @@
 # IrrationalConstantRules
 
-This package overwrites the return values for `Irrational`s defined in [`IrrationalConstatns.jl`](https://github.com/JuliaMath/IrrationalConstants.jl).
+This package overrides the return values for `Irrational`s defined in [`IrrationalConstants.jl`](https://github.com/JuliaMath/IrrationalConstants.jl).
 
 ```julia
 julia> using IrrationalConstants
